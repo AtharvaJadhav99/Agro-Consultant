@@ -25,5 +25,11 @@ This feature help to predict if the crop has any disease or not and gives the ca
 ![image](https://user-images.githubusercontent.com/70806987/170834860-4ed71aff-9776-4e27-8101-8233ce0d46d1.png)
 ![image](https://user-images.githubusercontent.com/70806987/170834863-e090efa5-dde8-4bd8-978b-108a4c877a97.png)
 
+# Libraries Used
 
+Pandas
+Numpy
+matplotlib
+sklearn
+pytorch
 
