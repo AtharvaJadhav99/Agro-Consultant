@@ -6,10 +6,8 @@ This project deals recommends the farmer the best suitable crop to grow and the 
 # Crop Recommendation:
 
 This helps to predict the type of crop best suitable for the farmer to grow using features like N,P,K values of soil, rainfall, temperature, geographical location.
-
-Inputs added by the user (https://user-images.githubusercontent.com/70806987/170834809-5728456d-618a-4097-8479-fea2d5eb899d.png)
-
-Predicting the best crop to grow (https://user-images.githubusercontent.com/70806987/170834847-e27c4618-a19a-40fb-8766-3842737d220a.png)
+[image](https://user-images.githubusercontent.com/70806987/170834809-5728456d-618a-4097-8479-fea2d5eb899d.png)
+[image](https://user-images.githubusercontent.com/70806987/170834847-e27c4618-a19a-40fb-8766-3842737d220a.png)
 
 
 ![image](https://user-images.githubusercontent.com/70806987/170834851-810b31bf-5508-4463-84ab-5d2c21e40801.png)
