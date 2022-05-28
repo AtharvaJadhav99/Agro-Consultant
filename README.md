@@ -18,6 +18,9 @@ This helps to predict the fertilizer best suitable for the farmer to use in this
 ![image](https://user-images.githubusercontent.com/70806987/170834855-62efe1d6-a5d9-4f06-a039-82075a6fdfe9.png)
 
 
+# Plant Disease Classification
+
+This feature help to predict if the crop has any disease or not and gives the cause of the disease as well as the remedies for the same.
 
 ![image](https://user-images.githubusercontent.com/70806987/170834860-4ed71aff-9776-4e27-8101-8233ce0d46d1.png)
 ![image](https://user-images.githubusercontent.com/70806987/170834863-e090efa5-dde8-4bd8-978b-108a4c877a97.png)
