@@ -14,11 +14,6 @@ This helps to predict the type of crop best suitable for the farmer to grow usin
 
 This helps to predict the fertilizer best suitable for the farmer to use in this farm by considering featuressuch as N,P,K values of soil, the type of soil, the crop to be grown etc.
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/70806987/170834851-810b31bf-5508-4463-84ab-5d2c21e40801.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="https://user-images.githubusercontent.com/70806987/170834855-62efe1d6-a5d9-4f06-a039-82075a6fdfe9.png" width="100" />
-</p>
 ![image](https://user-images.githubusercontent.com/70806987/170834851-810b31bf-5508-4463-84ab-5d2c21e40801.png)
 ![image](https://user-images.githubusercontent.com/70806987/170834855-62efe1d6-a5d9-4f06-a039-82075a6fdfe9.png)
 
@@ -29,4 +24,6 @@ This feature help to predict if the crop has any disease or not and gives the ca
 
 ![image](https://user-images.githubusercontent.com/70806987/170834860-4ed71aff-9776-4e27-8101-8233ce0d46d1.png)
 ![image](https://user-images.githubusercontent.com/70806987/170834863-e090efa5-dde8-4bd8-978b-108a4c877a97.png)
+
+
 
