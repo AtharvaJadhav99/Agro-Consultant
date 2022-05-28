@@ -1,7 +1,7 @@
 # Agro-Consultant
 
 
-This project recommends the farmer the best suitable crop to grow and the suitable fertilizer to use in his farm. It also helps to predict if a particular crop has some disease or not and gives suitable remedies to cure the disease.
+This project recommends the farmer the best suitable crop to grow and the suitable fertilizer to use in his farm using advanced machine learning techniques. It also helps to predict if a particular crop has some disease or not and gives suitable remedies to cure the disease using convoultional neural networks ( CNN ).
 
 # Areas of the Project
 
